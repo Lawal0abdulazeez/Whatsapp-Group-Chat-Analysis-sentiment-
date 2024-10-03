@@ -1,0 +1,9 @@
+emoji
+emot
+pandas
+plotly
+stylecloud
+collections-extended
+nltk
+emosent
+whatstk
